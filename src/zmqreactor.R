@@ -4,7 +4,7 @@
 ## | |    / __/| | | | | | |_| |  ( (/ ( ( | ( (___| |_| |_| | |             ##
 ## |_|   (_____)_|_|_|\_|| (_)_|   \____)_||_|\____)\___)___/|_|             ##
 ##                       |_| The event reactor for ZeroMQ sockets in R.      ##
-##                            (c) 2012, James Brotchie <brotchie@gmail.com>  ##
+##                              Copyright © 2012, James Brotchie             ##
 
 library(rzmq)
 
